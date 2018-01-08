@@ -1,0 +1,5 @@
+The output will consist of t lines, 1 line corresponding to each test case.
+
+Each test case should output the generated output mathematical expression.
+
+NOTE:- In the output mathematical expression, each variable should be preceeded by '+' or '-'.

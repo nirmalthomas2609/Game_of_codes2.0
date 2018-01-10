@@ -1,10 +1,10 @@
 import random
-f = open('input2.txt','w')
+f = open('input5.txt','w')
 f.write('5\n')
 
 for i in range(5):
-    n = random.randrange(50,80)
-    b = random.randrange(100,450)
+    n = random.randrange(80,90)
+    b = random.randrange(450,480)
     n_s = str(n)
     b_s = str(b)
     f.write(b_s+' '+n_s+'\n')    
